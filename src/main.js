@@ -224,3 +224,5 @@ btn.addEventListener("click", async (evt) => {
 window.addEventListener("load", () => {
   updateExchangeRate();
 });
+console.log("hina");
+
